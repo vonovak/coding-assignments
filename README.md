@@ -1,5 +1,5 @@
 ## Solutions to some problem assignments I encountered in my university classes on algorithms.
-In each folder, there is a file that contains the problem assignment. The solution to the problem is in the src subfolder. The code is always in a single java file, often with only a couple of methods and classes, since the problems are focused solely on developing effective algorithms and using suitable data structures, and never require lengthy code. However, that doesn't mean your solution can't be twice as long as mine ;)
+In each folder, there is a file that contains the problem assignment. The code is usually in a single java file, often with only a couple of methods and classes, since the problems are focused solely on developing effective algorithms and using suitable data structures, and never require lengthy code. However, that doesn't mean your solution can't be twice as long as mine ;)
 
 #### Example assignment
 ##### Problem: Train Composition
