@@ -4,5 +4,7 @@ This is an implementation of the game for two human players as I developed it fo
 
 Using the program is simple, you can test it out by running the `jar` file.
 
+Please don't take the code very seriously, I pushed this to GH for my own amusement rather than as something I'd like to show off :)
+
 
 <img src="https://raw.githubusercontent.com/vonovak/coding-assignments/assignment/tic-tac-toe/piskvorky.png" width="550">
